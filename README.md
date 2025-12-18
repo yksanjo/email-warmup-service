@@ -1,6 +1,13 @@
-# Email Warm-up Service
+# WarmUp 📧
 
-Automated email domain warm-up tool that gradually increases sending volume to improve deliverability and avoid spam filters.
+> **Email Warm-up Service** - Automated email domain warm-up tool that gradually increases sending volume to improve deliverability and avoid spam filters.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Status: Active](https://img.shields.io/badge/status-active-success.svg)](https://github.com/yksanjo/WarmUp)
+[![GitHub stars](https://img.shields.io/github/stars/yksanjo/WarmUp?style=social)](https://github.com/yksanjo/WarmUp)
+
+**WarmUp** helps you gradually increase your email sending volume to build sender reputation and improve deliverability. Perfect for cold email campaigns, transactional emails, and marketing automation.
 
 ## Features
 
