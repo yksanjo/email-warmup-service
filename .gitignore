@@ -1,0 +1,12 @@
+.env
+warmup_state.json
+recipients.txt
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+
+
