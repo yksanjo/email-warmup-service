@@ -2,6 +2,7 @@
 
 ## Next Milestones
 
-- Add domain-specific scoring rules for application.
-- Add integration tests for the python runtime path.
-- Add deployment profile and operational runbooks.
+- Support multiple sender mailboxes / accounts in one run.
+- Add reply / open simulation against warm-up inboxes.
+- Add integration tests against a local SMTP sink.
+- Add a deployment profile and operational runbook for `--continuous`.
